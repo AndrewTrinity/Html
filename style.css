@@ -9,3 +9,15 @@ body {
     background-color:black;
     color:white;
 }
+
+#container {
+    background-color: rgb(40, 194, 114);
+    border: 5px solid white;
+    padding: 2em;
+}
+
+#span-container {
+    font-size: 2rem;
+    color: pink;
+    border: 1px dotted dodgerblue;
+}
