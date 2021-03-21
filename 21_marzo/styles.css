@@ -1,0 +1,55 @@
+body {
+    font-family: 'Berkshire Swash', cursive;
+    background-color: #eccbd9;
+}  
+
+
+#nav-bar li{
+    font-family: 'Times New Roman', Times, serif;
+    display: inline;
+}
+
+#titular {
+    font-family: 'Roboto', cursive;
+    color:royalblue;
+    background-color: salmon;
+}
+
+#article{
+    color:blueviolet;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+#poke-div {
+    background-color: grey;
+    color:white;
+}
+
+#div-uno {
+    background-color: red;
+}
+
+#div-dos{
+    background-color: green;
+    border:10px solid orange;
+}
+
+#div-tres{
+background-color: blue;
+}
+
+.tutorial-divs{ 
+    height:400px;
+    width:400px;
+    background-color: black;
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+img:hover {
+    border: 2px solid black;
+    border-radius: 50%;
+    transition: 0.5s;
+    background-color: white;
+    transform: translateY(40px) translateX(130px) scale(0.8);
+}
