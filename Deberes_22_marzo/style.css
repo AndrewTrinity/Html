@@ -1,0 +1,28 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    font-family: 'Syne Mono', cursive;
+    border: 15px dotted brown;
+    background-color: whitesmoke;
+}
+
+h2{
+    font-family: 'Ranchers', Times New Roman, Times, serif;
+    border:5px solid navy;
+    border-radius: 60%;
+    margin-bottom: 20px;
+}
+
+h3{
+    font-family: 'Pacifico', Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+#foto{
+    height:350px;
+    width: 250px;
+    border: 5px solid blueviolet;
+    border-radius: 35%;
+    background-color: darkgreen;
+}

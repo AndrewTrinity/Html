@@ -1,0 +1,40 @@
+body{
+    background-color: darkseagreen;
+}
+
+#name{
+    font-size: 48px;
+   font-family: 'Oswald', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+    background-color: darkmagenta ;
+    display: flex;
+    justify-content: center;
+}
+
+#farola{
+    height: 500px;
+    width: 600px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#title{
+    font-size: 42px;
+    background-color:red;
+    font-family: 'Ranchers';
+    display:flex;
+    justify-content: flex-end;
+}
+
+#lorem{
+    font-size: 25px;
+    display: flex;
+}
+
+#form{
+    font-size: 15px;
+    background-color: springgreen;
+    display:flex;
+    justify-content: center;
+}

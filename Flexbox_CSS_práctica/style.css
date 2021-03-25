@@ -1,0 +1,47 @@
+body{
+    background-color: lightblue;
+}
+
+.container{
+    background-color: indianred;
+    border:2px solid black;
+    /* height:650px; */
+    display:flex;
+   /* flex-direction: column ; */
+    /* flex-wrap: wrap; */
+    /* justify-content: center;
+    align-items: center; */
+}
+
+.container-flexbox-item-1{
+    height:150px;
+    width:200px;
+    background-color: chocolate;
+    border:3px solid black;
+    margin: 10px;
+    flex-shrink: 0;
+    order: 3;
+}
+
+.container-flexbox-item-2{
+    height:100px;
+    width:200px;
+    background-color: grey;
+    border:3px solid black;
+    margin: 10px;
+    flex-grow: 2;
+    flex-basis: 0;
+    align-self: center;
+    order: 1;
+}
+
+.container-flexbox-item-3{
+    height:50px;
+    width:150px;
+    background-color: goldenrod;
+    border:3px solid black;
+    margin:10px;
+    /* flex-grow: 1; */
+    align-self: flex-end;
+    order: 2;
+}
