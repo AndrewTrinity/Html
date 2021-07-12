@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #8BC6EC;
+background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+
+}
+
+#title{
+    width: 500px;
+    margin: 0 auto;
+}
+
+#prePlaceholder{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: x-large;
+}
+
+#name{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: x-large;
+}
+
+#button{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: x-large;
+}
+
+#pokeImg{
+    height: 250px;
+}
+
+#pokemonName{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: xx-large;
+}
+
+#id{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: xx-large;
+}
+
+#height{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: xx-large;
+}
